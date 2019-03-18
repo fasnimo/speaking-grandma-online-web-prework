@@ -8,9 +8,8 @@ def speak_to_grandma(require_relative = "I LOVE YOU GRANDMA!")
      "HUH?! SPEAK UP, SONNY!"
   elsif require_relative == "WHAT DID YOU EAT TODAY?"
      "NO, NOT SINCE 1938!"
-  elsif require_relative == "WHAT?"
+  else require_relative == "WHAT?"
      "NO, NOT SINCE 1938!"
-  else 
-    puts "I LOVE YOU TOO PUMPKIN!" 
+  
 end
 end
