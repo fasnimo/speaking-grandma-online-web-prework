@@ -1,5 +1,5 @@
 
-def speak_to_grandma(require_relative = "I LOVE YOU GRANDMA!")
+def speak_to_grandma(require_relative == "I LOVE YOU GRANDMA!")
   if require_relative == "I LOVE YOU GRANDMA!"
     
   elsif require_relative == "Hi Nana, how are you?"
