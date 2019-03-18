@@ -10,6 +10,5 @@ def speak_to_grandma(require_relative = "I LOVE YOU GRANDMA!")
      "NO, NOT SINCE 1938!"
   else require_relative == "WHAT?"
      "NO, NOT SINCE 1938!"
-  
 end
 end
